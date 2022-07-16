@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Technique" title="Technique">
+<page file="default.html" text="" title="La Cthulture"/>
+<page file="mythe_001.html" text="LE MYTHE" title="La Cthulture"/>
+<page file="cthulhu.html" text="CTHULHU" title="Le mythe"/>
+<page file="representations.html" text="REPRESENTATIONS" title="Le mythe"/>
+<page file="litterature.html" text="LITTERATURE" title="Les représentations de Cthulhu"/>
+<page file="jeux.html" text="JEUX" title="Les jeux inspirés de Cthulhu"/>
+<page file="musique.html" text="MUSIQUE" title="Les jeux inspirés de Cthulhu"/>
+<page file="cinema.html" text="AUDIOVISUEL" title="Cthulhu dans la musique"/>
+<page file="legendes.html" text="LEGENDES" title="Cthulhu dans les légendes"/>
+<page file="cthulhu_mythos.html" text="la page Wikipedia consacrée au mythe de Cthulhu" title="Cthulhu Mythos - Wikipedia, the free encyclopedia"/>
+</page>
+</site>

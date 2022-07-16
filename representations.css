@@ -1,0 +1,29 @@
+/* ::::: http://fonts.googleapis.com/css?family=Berkshire+Swash ::::: */
+
+@font-face {
+	font-family: "Berkshire Swash";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Berkshire Swash"), local("BerkshireSwash-Regular"), url('4rzjjvrpjync2939hkcaio7pdnlca4rilyzxfx2_upk.woff') format("woff");
+}
+/* ::::: http://fonts.googleapis.com/css?family=Bad+Script ::::: */
+
+@font-face {
+	font-family: "Bad Script";
+	font-style: normal;
+	font-weight: 400;
+	src: local("Bad Script Regular"), local("BadScript-Regular"), url('rl_b2nd61eqmmoj8crr1fhsxeywm7fgeyasgu71clg0.woff') format("woff");
+}
+/* ::::: file:///D:/fac/ann%C3%A9e%202011%202012/examens/second%20semestre/examen%20mineure%20L2%20avril%202012/sites/etudiant_212%20zimmermann%20chouvelon/style.css ::::: */
+
+body { background-position: center center; color: rgb(40, 40, 40); background-image: url('fond3.png'); }
+table { border-color: rgb(0, 25, 0); border-radius: 10px 10px 10px 10px; background-color: white; }
+h1 { color: rgb(0, 99, 0); background-position: left bottom; line-height: 1; font-size: 28px; background-repeat: no-repeat; font-weight: normal; text-align: left; font-style: normal; font-family: 'Berkshire Swash',cursive; text-decoration: none; }
+h3 { text-transform: capitalize; text-decoration: underline overline; font-style: normal; text-align: center; font-family: Arial,Helvetica,sans-serif; font-weight: bold; color: rgb(81, 81, 81); font-size: 14px; }
+a.menu { color: rgb(102, 102, 102); text-decoration: none; }
+h2 { font-family: 'Bad Script',cursive; color: rgb(0, 76, 0); }
+a.haut { color: rgb(40, 40, 40); }
+a.menu:hover { color: black; }
+a.haut:hover { color: rgb(0, 76, 0); }
+/* ::::: file:///D:/fac/ann%C3%A9e%202011%202012/examens/second%20semestre/examen%20mineure%20L2%20avril%202012/sites/etudiant_212%20zimmermann%20chouvelon/css/lightbox.css ::::: */
+

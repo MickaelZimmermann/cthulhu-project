@@ -1,0 +1,11 @@
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/Techniques.html	index
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/index.html	default
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/mythe.html	mythe_001
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/cthulhu.html	cthulhu
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/representations.html	representations
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/litterature.html	litterature
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/jeux.html	jeux
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/musique.html	musique
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/cinema.html	cinema
+file:///D:/fac/annÃ©e 2011 2012/examens/second semestre/examen mineure L2 avril 2012/sites/etudiant_212 zimmermann chouvelon/legendes.html	legendes
+http://en.wikipedia.org/wiki/Cthulhu_Mythos	cthulhu_mythos
